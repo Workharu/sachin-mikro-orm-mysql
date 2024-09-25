@@ -1,0 +1,11 @@
+.env 
+
+.serverless
+
+node_modules/
+
+src/migrations
+
+*lock.json
+
+*.lock
